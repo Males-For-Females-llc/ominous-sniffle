@@ -5,7 +5,6 @@
       "name": "Run application",
       "type": "node",
       "request": "launch",
-      "cwd": "$({
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
     "cpus": 4
@@ -30,7 +29,7 @@
     }
   },
   "forwardPorts": [3000]
-})",
+}
       "console": "integratedTerminal",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
