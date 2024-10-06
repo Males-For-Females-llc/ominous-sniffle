@@ -39,6 +39,3 @@
       "skipFiles": [
         "<node_internals>/**"
       ]
-    }
-  ]
-}
